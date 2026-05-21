@@ -1,0 +1,231 @@
+Feature,SHAP_Importance
+num__area,0.421554183136177
+num__no_of_bedrooms,0.0022868687644721332
+num__resale,0.006821825154830022
+num__maintenancestaff,0.0019928780672363636
+num__gymnasium,0.0035203610809896296
+num__swimmingpool,0.033717053442496266
+num__landscapedgardens,0.0036012213214744104
+num__joggingtrack,0.0012044862573633637
+num__rainwaterharvesting,0.0014754640146059832
+num__indoorgames,0.002210570435954002
+num__shoppingmall,0.00034129879517234
+num__intercom,0.001989079463823669
+num__sportsfacility,0.0025993958519652115
+num__atm,0.013304694180660732
+num__clubhouse,0.002905130695785155
+num__school,0.0004573280355599446
+num__24x7security,0.0011821077197536024
+num__powerbackup,0.0029981382484857285
+num__carparking,0.0013704930669540538
+num__staffquarter,0.000903274723829249
+num__cafeteria,0.0018103311292174398
+num__multipurposeroom,0.0010476862893838053
+num__hospital,0.0003893760414050897
+num__washingmachine,0.0001566457721032209
+num__gasconnection,0.0010134359123971511
+num__ac,0.0006276031216458475
+num__wifi,0.00040920084721962554
+num__children'splayarea,0.002445140551481796
+num__liftavailable,0.002577367169566836
+num__bed,0.0013463692325794627
+num__vaastucompliant,0.0008647605486226885
+num__microwave,0.0011140038469288182
+num__golfcourse,0.001445242759834261
+num__tv,0.0007319809779741017
+num__diningtable,0.00026639487394956483
+num__sofa,0.00031218530454509637
+num__wardrobe,0.0004371966477230881
+num__refrigerator,0.00042524921878673796
+num__latitude,0.05164836949040076
+num__longitude,0.02676952203870787
+cat__location_AS Rao Nagar,1.0781677108671589e-05
+cat__location_Adda Gutta,2.120588564772845e-06
+cat__location_Alkapur township,9.741508509951288e-06
+cat__location_Allwyn Colony,6.048305054491407e-06
+cat__location_Almasguda,3.7788979454800187e-06
+cat__location_Alwal,7.004110877657399e-05
+cat__location_Ambedkar Nagar,8.479784643410474e-07
+cat__location_Amberpet,0.00031171124583991835
+cat__location_Ameenpur,1.983752906575641e-06
+cat__location_Ameerpet,8.399537351387896e-06
+cat__location_Aminpur,3.091204549703028e-05
+cat__location_Appa Junction,0.0005302943107716306
+cat__location_Ashok Nagar,0.0007165211938879029
+cat__location_Attapur,0.0001101855994315022
+cat__location_Aushapur,1.9854263288759416e-05
+cat__location_BHEL,0.00010856277481433366
+cat__location_BK Guda Internal Road,0.00016323876490005325
+cat__location_BK Guda Road,2.443552675864711e-06
+cat__location_Bachupally,0.0003721944054963389
+cat__location_Bachupally Road,0.00014389953740388844
+cat__location_Bagh Amberpet,1.288406764368431e-05
+cat__location_Baghlingampally,5.130072953327645e-06
+cat__location_Balanagar,6.954350725063271e-05
+cat__location_Balapur,2.1903011937328783e-06
+cat__location_Bandlaguda Jagir,0.0003788612275492088
+cat__location_Banjara Hills,0.004366971413417356
+cat__location_Banjara Hills Road Number 12,2.8949088798594122e-05
+cat__location_Barkatpura,2.9232999975008463e-06
+cat__location_Basheer Bagh,1.2811152031377217e-06
+cat__location_Beeramguda,0.0028804700736861106
+cat__location_Begumpet,0.0011411255060477772
+cat__location_Boduppal,0.00037521513774953224
+cat__location_Bolarum,0.0005816391438745312
+cat__location_Bollaram,0.00012462914390918298
+cat__location_Bowenpally,2.3834144841758923e-05
+cat__location_Central Excise Colony Hyderabad,1.247137612373758e-05
+cat__location_Chaitanyapuri,3.615608798495936e-05
+cat__location_Chandanagar,2.7996179697877253e-05
+cat__location_Cherlapalli,7.385691450464253e-06
+cat__location_Chikkadapally,9.269741720648675e-06
+cat__location_D D Colony,3.256670170007478e-05
+cat__location_DD Colony,2.181622514920575e-05
+cat__location_Dammaiguda,3.266367080732826e-05
+cat__location_Domalguda,5.629455017908545e-06
+cat__location_Domalguda Road,5.2849177337654025e-06
+cat__location_Dr A S Rao Nagar Rd,3.122259080235209e-05
+cat__location_ECIL,3.398856118339008e-05
+cat__location_ECIL Cross Road,3.427598418878519e-06
+cat__location_ECIL Main Road,1.570045442133737e-05
+cat__location_East Marredpally,0.0012777152650816012
+cat__location_Film Nagar,9.055922900127802e-06
+cat__location_Gachibowli,0.00209097389938763
+cat__location_Gajularamaram,0.0005570940272135335
+cat__location_Gandipet,5.1547991536849e-05
+cat__location_Ghansi Bazaar,4.110603600907479e-06
+cat__location_Gopanpally,2.602086804013939e-05
+cat__location_HMT Hills,4.83587301621932e-05
+cat__location_Habsiguda,0.0002893561654789902
+cat__location_Hafeezpet,3.4271774438689465e-05
+cat__location_Hakimpet,7.396857878845916e-05
+cat__location_Hastinapur,2.69138490138384e-05
+cat__location_Himayat Nagar,0.0001166771208441755
+cat__location_Hitech City,0.0033293963017972344
+cat__location_Hitex Road,2.135855109943962e-07
+cat__location_Hyder Nagar,0.00013621742602879961
+cat__location_Hydershakote,0.00017450508383016342
+cat__location_IDPL Colony,6.04967826029122e-06
+cat__location_Isnapur,1.7890983182937228e-05
+cat__location_JNTU,5.435786718068094e-06
+cat__location_Jubilee Hills,0.0054192302785402045
+cat__location_KPHB,7.439842197536595e-05
+cat__location_KTR Colony,0.00026597542217421367
+cat__location_Kachiguda,0.00025777828772143057
+cat__location_Kapra,0.0002200322295446716
+cat__location_Karimnagar,0.0
+cat__location_Karmanghat,8.116808647615015e-06
+cat__location_Kavuri Hills,9.429628080343592e-05
+cat__location_Kismatpur,2.7868326731130645e-06
+cat__location_Kistareddypet,8.199052160150521e-05
+cat__location_Kokapet,0.0005736989107276602
+cat__location_Kollur,4.607551430490883e-05
+cat__location_Kollur Road,3.873238654609892e-05
+cat__location_Kompally,0.00036744273800922415
+cat__location_Kondapur,0.006494357973698745
+cat__location_Kothaguda,6.219024450020737e-05
+cat__location_Kowkur,9.60064142214452e-05
+cat__location_Kukatpally,0.0013729772179393092
+cat__location_Kushaiguda,4.728783567231213e-05
+cat__location_LB Nagar,5.953708738311748e-05
+cat__location_Lakdikapul,5.59470830551915e-06
+cat__location_Lingampalli,1.0136443279792213e-20
+cat__location_Madhapur,0.0014266525619596987
+cat__location_Madhura Nagar,6.9114383145222884e-06
+cat__location_Madinaguda,0.0008103334802210496
+cat__location_Mailardevpally,0.0
+cat__location_Malkajgiri,0.0004258405687951325
+cat__location_Mallampet,4.0254071849071036e-05
+cat__location_Mallapur,0.0016299518340874477
+cat__location_Manikonda,0.0003917523596135028
+cat__location_Mansoorabad,6.973144774050283e-06
+cat__location_Masab Tank,1.6727642380912265e-05
+cat__location_Matrusri Nagar,4.02473224253421e-05
+cat__location_Mayuri Nagar,0.0001413727812525667
+cat__location_Medchal,3.9017283086447285e-05
+cat__location_Mehdipatnam,6.384216339033798e-05
+cat__location_Mettuguda,2.6463490337746877e-06
+cat__location_Miyapur,0.0009949280381299716
+cat__location_Miyapur Bachupally Road,3.576102901735701e-05
+cat__location_Miyapur HMT Swarnapuri Colony,9.14372734890608e-06
+cat__location_Moosapet,3.912878467933801e-05
+cat__location_Moti Nagar,1.5105070385931984e-06
+cat__location_Moula Ali,9.800483546880614e-06
+cat__location_Murad Nagar,3.435607773225103e-05
+cat__location_Nacharam,2.3889270172416826e-05
+cat__location_Nagole,0.00309261044915446
+cat__location_Nallagandla Gachibowli,0.00014761240010917104
+cat__location_Nallagandla Road,9.228530375914124e-07
+cat__location_Nallakunta,0.0003498952516566953
+cat__location_Nanakramguda,0.00026405697583636634
+cat__location_Nandagiri Hills,3.427227647219408e-05
+cat__location_Narayanguda,2.3356760405913896e-05
+cat__location_Narsingi,0.0006094775202575481
+cat__location_Neknampur,1.1323630661218084e-05
+cat__location_New Maruthi Nagar,0.0
+cat__location_Nizampet,0.0006090335385044053
+cat__location_Old Alwal,1.1126058531219898e-06
+cat__location_Old Bowenpally,0.0002410044406088687
+cat__location_Old Nallakunta,1.1711829759709676e-05
+cat__location_Padma Colony,0.00028980448104823364
+cat__location_Padmarao Nagar,1.6892004489684812e-06
+cat__location_Patancheru,0.0008619258651827306
+cat__location_Pati,0.0003276151021310279
+cat__location_Picket,1.2056371093443371e-05
+cat__location_Pocharam,0.0001490118665139675
+cat__location_Pragathi Nagar,2.3151454287538586e-05
+cat__location_Pragathi Nagar Kukatpally,0.00017534969560963588
+cat__location_Pragathi Nagar Road,4.854943121653636e-06
+cat__location_Pragati Nagar,1.803505601056969e-05
+cat__location_Puppalaguda,0.0031870286376573316
+cat__location_Quthbullapur,9.41115917686273e-06
+cat__location_Qutub Shahi Tombs,8.348209860584038e-06
+cat__location_Rajendra Nagar,3.1409029433722966e-05
+cat__location_Rakshapuram,6.578110653119115e-07
+cat__location_Ramachandra Puram,1.7532578266314255e-06
+cat__location_Ramnagar Gundu,6.32992904967862e-05
+cat__location_Rhoda Mistri Nagar,0.00010539293986174832
+cat__location_Ring Road,1.322063659829223e-06
+cat__location_Safilguda,3.779809875136577e-06
+cat__location_Sainikpuri,0.00015448994869931906
+cat__location_Saket,0.0005944064776725411
+cat__location_Sanath Nagar,0.0004102893545567946
+cat__location_Santoshnagar,2.430466763433292e-06
+cat__location_Saroornagar,1.8978521266813127e-05
+cat__location_Secunderabad Railway Station Road,1.3172860412295873e-05
+cat__location_Serilingampally,7.986908602635262e-05
+cat__location_Shadnagar,0.00010031736924355442
+cat__location_Shaikpet,7.039775046580203e-05
+cat__location_Shamshabad,2.8178638726811744e-05
+cat__location_Sikh Village,2.9225304918296557e-05
+cat__location_Somajiguda,0.0001705164008680561
+cat__location_Sri Nagar Colony,0.0004552778111924928
+cat__location_Srisailam Highway,2.8390949088847427e-06
+cat__location_Suchitra,2.8648939386496102e-05
+cat__location_Sun City,0.00011576111500787729
+cat__location_Tarnaka,0.0003948769732761052
+cat__location_Tellapur,0.0005419143101402198
+cat__location_Tilak Nagar,1.8867155592823352e-05
+cat__location_Tirumalgiri,1.0204085513841904e-05
+cat__location_Tolichowki,6.109862955522871e-06
+cat__location_Uppal,1.1812742413490044e-05
+cat__location_Uppal Kalan,0.0001295551062760921
+cat__location_Usman Nagar,3.2225716430871233e-06
+cat__location_Vanasthalipuram,3.4240463612828924e-05
+cat__location_Venkat Nagar Colony,4.109705621546305e-06
+cat__location_Vidyanagar Adikmet,8.924287149675715e-05
+cat__location_Vivekananda Nagar Colony,3.037831410569541e-05
+cat__location_West Marredpally,0.00044954927210063476
+cat__location_Whisper Valley,4.826150171381639e-06
+cat__location_Whitefield,7.000831332275e-07
+cat__location_Whitefields,5.56962211292123e-06
+cat__location_Yapral,0.00014865860105047146
+cat__location_Zamistanpur,1.468522303911296e-05
+cat__location_chandrayangutta,0.00011469071133768273
+cat__location_financial District,9.624101110203901e-05
+cat__location_manneguda,4.896689291824553e-06
+cat__location_muthangi,3.223378256505674e-05
+cat__location_new nallakunta,4.1436244251194534e-05
+cat__location_nizampet road,7.606213981653535e-07
+cat__location_west venkatapuram,1.8738940785728944e-06
+cat__city_Hyderabad,0.0
