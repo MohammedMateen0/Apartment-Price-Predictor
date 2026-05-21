@@ -39,6 +39,7 @@ Features include:
 * Amenities and facilities
 * Security and furnishing features
 * Lifestyle features
+* Explainable AI using SHAP
 
 Dataset Size:
 
@@ -64,7 +65,8 @@ Apartment-Price-Predictor/
 │   ├── 02_linear_models.ipynb
 │   ├── 03_tree_models.ipynb
 │   ├── 04_classification.ipynb
-│   └── 05_inference_and_export.ipynb
+│   ├── 05_inference_and_export.ipynb
+│   └── 06_shap_explainability.ipynb
 │
 ├── models/
 │   ├── linear_regression.pkl
@@ -231,6 +233,62 @@ Random Forest feature importance analysis showed that the most influential featu
 * Location-based signals
 
 ![Feature Importance](images/feature_importance.png)
+
+---
+
+---
+
+# Explainable AI with SHAP
+
+SHAP (SHapley Additive exPlanations) was used to interpret the Random Forest apartment price prediction model.
+
+The explainability workflow included:
+
+- global feature importance analysis
+- local prediction explanations
+- directional feature contribution analysis
+- interpretable model behavior visualization
+
+SHAP improves model transparency and helps explain how apartment features influence predicted prices.
+
+---
+
+# SHAP Summary Plot
+
+The SHAP summary plot shows the global importance and directional impact of features across all apartment predictions.
+
+- Red points represent high feature values
+- Blue points represent low feature values
+- Features further right increase predicted price
+- Features further left decrease predicted price
+
+![SHAP Summary](images/shap_summary_named.png)
+
+---
+
+# Local Prediction Explanation
+
+Local SHAP explanations show how individual apartment features contributed to a specific prediction.
+
+This helps explain:
+
+- why a particular apartment received a high prediction
+- which features increased value
+- which features reduced value
+
+![SHAP Local Explanation](images/shap_local_explanation.png)
+
+---
+
+# SHAP Insights
+
+Key explainability findings:
+
+- Apartment area strongly increased predicted prices.
+- Premium geolocations had major positive contributions.
+- Luxury amenities positively influenced valuation.
+- Latitude and longitude captured important real-estate market segmentation patterns.
+- Larger apartments consistently pushed predictions upward.
 
 ---
 
@@ -433,6 +491,9 @@ This project demonstrates:
 * Feature importance analysis
 * Inference system design
 * Production-style project organization
+* Explainable AI (XAI)
+* SHAP feature attribution
+* Model interpretability
 
 ---
 
@@ -443,7 +504,7 @@ Potential upgrades:
 * XGBoost
 * LightGBM
 * Hyperparameter tuning
-* SHAP explainability
+* Advanced SHAP interaction analysis
 * Streamlit deployment
 * FastAPI deployment
 * Docker containerization
